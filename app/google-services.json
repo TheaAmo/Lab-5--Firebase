@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "48925632089",
+    "project_id": "lab-5---firebase-922a0",
+    "storage_bucket": "lab-5---firebase-922a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48925632089:android:ad8a9f3a3d7c31a426b348",
+        "android_client_info": {
+          "package_name": "com.example.seg2105lab5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe20FDjdKwuXaj7mCuBDyPn55HY-rLh_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
